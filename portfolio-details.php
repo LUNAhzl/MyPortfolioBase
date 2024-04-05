@@ -336,11 +336,11 @@
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/gh4.png" alt="">
+                  <img src="assets/img/portfolio/p3.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/gh3.png" alt="">
+                  <img src="assets/img/portfolio/p2.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
@@ -349,6 +349,10 @@
 
                 <div class="swiper-slide">
                   <img src="assets/img/portfolio/gh1.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/p1.png" alt="">
                 </div>
 
               </div>
@@ -365,7 +369,7 @@
                 <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
                 <li><strong>Project date</strong>: February, 2024</li>
                 <li><strong>Project URL</strong>: <a href="https://github.com/LUNAhzl">https://github.com/LUNAhzl</a></li>
-                <li><strong>Repositories URL</strong>: <a href="https://github.com/LUNAhzl/MidetermEXBase">https://github.com/LUNAhzl/MidetermEXBase</a></br><a href="https://github.com/LUNAhzl/CapstoneOJT-Base">https://github.com/LUNAhzl/CapstoneOJT-Base</a></li>
+                <li><strong>Repositories URL</strong>: <a href="https://github.com/LUNAhzl/MidetermEXBase">https://github.com/LUNAhzl/MidetermEXBase</a></br><a href="https://github.com/LUNAhzl/CapstoneOJT-Base">https://github.com/LUNAhzl/CapstoneOJT-Base</a></br><a href="https://github.com/LUNAhzl/MyPortfolioBase">https://github.com/LUNAhzl/MyPortfolioBase</a></li>
               </ul>
             </div>
             <div class="portfolio-description">

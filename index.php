@@ -306,8 +306,8 @@
               <p><em>PHINMA-University of Iloilo, Rizal Street, Iloilo City</em></p>
               <li>Currently studying in one of the private colleges in Iloilo City.</li>
               <li>Major in Web Development.</li>
-              <li><a href="">Dean's List TOP 11-25, Academic Year 2122 1st Semester.</a></li>
-              <li><a href="">Dean's Lister, Academic Year 2224 1st Semester.</a></li>
+              <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/dean2.jpg">Dean's List TOP 11-25, Academic Year 2122 1st Semester.</a></li>
+              <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/dean.jpg">Dean's Lister, Academic Year 2224 1st Semester.</a></li>
               <li>Class President (2021-Present)</li>
               <li>Class Secretary (2022-Present)</li>
 
@@ -320,11 +320,11 @@
 
               </br>
               <p><i class="bi bi-caret-right-fill"></i> TESDA Certificate of Completion
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
-                <li><a href=""></a></li>
+                <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/COC/Introduction%20to%20CSS%20Certificate.pdf">Introduction to CSS</a></li>
+                <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/COC/COC1%20Certificate.pdf">Installing and Configuring Computer Systems</a></li>
+                <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/COC/COC2%20Certificate.pdf">Setting Up Computer Networks</a></li>
+                <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/COC/COC3%20Certificate.pdf">Setting Up Computer Servers</a></li>
+                <li><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/COC/COC4%20Certificate.pdf">Maintaining Computer Systems and Networks</a></li>
               </p>
 
             </div>
@@ -373,7 +373,7 @@
                   skills and knowledge about technology and other computer related quizzes. Our team finished 1st Runner-up 
                   and this was one of my best experience to join, compete, and represent our year level.
                 </li>
-                <li><em><a href=""></a></em></li>
+                <li><em><a href="https://github.com/LUNAhzl/MyPortfolioBase/blob/main/assets/img/cert.jpg">Certificate of Achievement</a></em></li>
               </ul>
             </div>
 
@@ -451,7 +451,7 @@
               <div class="portfolio-wrap">
                 <img src="assets/img/portfolio/github1.png" class="img-fluid" alt="">
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><a href=""></a></a>
+                  <a href="assets/img/portfolio/p1.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><a href="https://github.com/LUNAhzl/MyPortfolioBase">My_Portfolio Repository</a></a>
                   <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
