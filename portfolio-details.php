@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>HAZEL PORTFOLIO Details</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/icon2.png" rel="icon">
+  <link href="assets/img/icon1.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jul 27 2023 with Bootstrap v5.3.1
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/6-modified.png" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.html">Hazel Mae Luna</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://twitter.com/hzlm_luna156" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://www.facebook.com/jozel.km.21/" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://instagram.com/hm_luna156/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.youtube.com/@luna_hzl21/" class="youtube"><i class="bx bxl-youtube"></i></a>
+          <a href="https://t.me/hzl_luna21/" class="telegram"><i class="bx bxl-telegram"></i></a>
+        </div>
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="index.php" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <main id="main">
+
+    <!-- ======= Breadcrumbs ======= -->
+    <section id="breadcrumbs" class="breadcrumbs">
+      <div class="container">
+
+        <div class="d-flex justify-content-between align-items-center">
+          <h2>Portfolio Details</h2>
+          <ol>
+            <li><a href="index.php">Home</a></li>
+            <li>Portfolio Details</li>
+          </ol>
+        </div>
+
+      </div>
+    </section><!-- End Breadcrumbs -->
+
+    <!-- ======= Portfolio Details Section ======= -->
+    <section id="portfolio-details" class="portfolio-details">
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/4.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/7.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/10.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/11.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/12.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Web design</li>
+                <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
+                <li><strong>Project date</strong>: 18 August, 2023</li>
+                <li><strong>Project URL</strong>: <a href="https://lunawebsites2.000webhostapp.com/act2/index.html">https://lunawebsites2.000webhostapp.com/
+                  act2/index.html</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>D'ACES Website</h2>
+              <p>
+                This is the first website I made in class from last year. This consist of various information of our group and 
+                how it was formed. For further information, just click the link and enjoy reading. Thank you!
+              </p>
+            </div>
+
+            
+          </div>
+
+          
+        </div>
+
+        <hr></hr>
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/18.png" alt="">
+                </div>
+                
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/17.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/8.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/9.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/16.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Web design with Database</li>
+                <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
+                <li><strong>Project date</strong>: 23 August, 2023</li>
+                <li><strong>Project URL</strong>: <a href="https://lunawebsites2.000webhostapp.com/profile/index.php">https://lunawebsites2.000webhostapp.com/
+                  profile/index.php</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Create Profile With Database</h2>
+              <p>
+                This design is to create your students profile registring their basic information to get the records of your students
+                information to know them more. To test it, just click the link and create you own profile. Thank you!
+              </p>
+            </div>
+
+            
+          </div>
+
+          
+        </div>
+
+        <hr></hr>
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/19.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/5.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/6.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/21.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/22.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Web design</li>
+                <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
+                <li><strong>Project date</strong>: 28 August, 2023</li>
+                <li><strong>Project URL</strong>: <a href="https://lunawebsites2.000webhostapp.com/prelim_exam/index.html">https://lunawebsites2.000webhostapp.com/
+                  prelim_exam/index.html</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>HAMAELUNE Website</h2>
+              <p>
+                This website is made for everyone who wants to know me. The website contents information about me and
+                some various gallery photos as wel with some testimonials from my friends. If you want to know me more,
+                just click the link and enjoy reading. Thank you!
+              </p>
+            </div>
+
+            
+          </div>
+
+          <hr></hr>
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/arduino.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard1.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard2.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard3.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard5.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard6.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard4.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ard7.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Project</li>
+                <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
+                <li><strong>Project date</strong>: October, 2023</li>
+                <li><strong>Project URL</strong>: <a href=""></a>No Link.</li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>Parking Lot System using Ultrasonic Sensor in PHINMA-UI</h2>
+              <p>
+                This project is made for testing the final prototype of this project using Arduino. The 
+                project also has lots of things to test if it works. If you want to know more,just click the link and enjoy. Thank you!
+              </p>
+            </div>
+
+            
+          </div>
+
+          <hr></hr>
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/gh.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/gh4.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/gh3.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/gh2.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/gh1.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Github</li>
+                <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
+                <li><strong>Project date</strong>: February, 2024</li>
+                <li><strong>Project URL</strong>: <a href="https://github.com/LUNAhzl">https://github.com/LUNAhzl</a></li>
+                <li><strong>Repositories URL</strong>: <a href="https://github.com/LUNAhzl/MidetermEXBase">https://github.com/LUNAhzl/MidetermEXBase</a></br><a href="https://github.com/LUNAhzl/CapstoneOJT-Base">https://github.com/LUNAhzl/CapstoneOJT-Base</a></li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>LUNAhzl (Hazel Luna)</h2>
+              <p>
+                This remote repository is made for everyone who wants to know my project that made so far. The profile was created for me to upload a remote
+                repository of my projects and for you to view. If you want to know more,just click the link and enjoy. Thank you!
+              </p>
+            </div>
+
+            
+          </div>
+
+          <hr></hr>
+        <div class="row gy-4">
+
+          <div class="col-lg-8">
+            <div class="portfolio-details-slider swiper">
+              <div class="swiper-wrapper align-items-center">
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojtss.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt1.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt2.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt3.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt4.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt5.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt6.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt7.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt8.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt9.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt10.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt11.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt12.png" alt="">
+                </div>
+
+                <div class="swiper-slide">
+                  <img src="assets/img/portfolio/ojt13.png" alt="">
+                </div>
+
+              </div>
+              <div class="swiper-pagination"></div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-4">
+            <div class="portfolio-info">
+              <h3>Project information</h3>
+              <ul>
+                <li><strong>Category</strong>: Project</li>
+                <li><strong>Client</strong>: PHINMA-University of Iloilo CITE Department</li>
+                <li><strong>Project date</strong>: July, 2023</li>
+                <li><strong>Project URL</strong>: <a href=""></a>Pending...</li>
+              </ul>
+            </div>
+            <div class="portfolio-description">
+              <h2>OJTIME: OJT Records Management System for College of Management</h2>
+              <p>
+                This website that is made for our client which is the College of Management where it was 
+                a records management of their OJT students. May this website help their department for an 
+                easier and efficient systematic management for getting their students datas. If you want to 
+                know more,just click the link and enjoy. Thank you!
+              </p>
+            </div>
+
+            
+          </div>
+
+
+          
+        </div>
+
+      </div>
+    </section><!-- End Portfolio Details Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Developed by <strong><span>LUNE CREATIONS</span></strong>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
+

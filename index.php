@@ -1,0 +1,697 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>HAZEL PORTFOLIO</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/icon2.png" rel="icon">
+  <link href="assets/img/icon1.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Jul 27 2023 with Bootstrap v5.3.1
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Mobile nav toggle button ======= -->
+  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+  <!-- ======= Header ======= -->
+  <header id="header">
+    <div class="d-flex flex-column">
+
+      <div class="profile">
+        <img src="assets/img/7-modified.png" alt="" class="img-fluid rounded-circle">
+        <h1 class="text-light"><a href="index.html">Hazel Mae Luna</a></h1>
+        <div class="social-links mt-3 text-center">
+          <a href="https://twitter.com/hzlm_luna156" class="twitter"><i class="bx bxl-twitter"></i></a>
+          <a href="https://www.facebook.com/jozel.km.21/" class="facebook"><i class="bx bxl-facebook"></i></a>
+          <a href="https://instagram.com/hm_luna156/" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="https://www.youtube.com/@luna_hzl21/" class="youtube"><i class="bx bxl-youtube"></i></a>
+          <a href="https://t.me/hzl_luna21/" class="telegram"><i class="bx bxl-telegram"></i></a>
+        </div>
+      </div>
+
+      <nav id="navbar" class="nav-menu navbar">
+        <ul>
+          <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
+          <li><a href="#resume" class="nav-link scrollto"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
+          <li><a href="#portfolio" class="nav-link scrollto"><i class="bx bx-book-content"></i> <span>Portfolio</span></a></li>
+          <li><a href="#services" class="nav-link scrollto"><i class="bx bx-server"></i> <span>Services</span></a></li>
+          <li><a href="#testimonials" class="nav-link scrollto"><i class="bi bi-person-vcard"></i> <span>Testimonials</span></a></li>
+        </ul>
+      </nav><!-- .nav-menu -->
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
+    <div class="hero-container" data-aos="fade-in">
+      <h1>Hazel Mae Luna</h1>
+      <p>I'm a <span class="typed" data-typed-items="Writer, Dancer, Singer, Developer, Leader"></span></p>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>About</h2>
+          <p>This section was all about me. Get to know me better!</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-4" data-aos="fade-right">
+            <img src="assets/img/2.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
+            <h3>Web Developer.</h3>
+            <p class="fst-italic">
+              A future web developer that will develop and enhance the design, to create and maintain websites, 
+              providing in the process a cohesive and user-friendly online portal for the use of my clients. 
+              </br></br> 
+              You may also get to know me better reading more information about me below...
+            </p>
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>6 May 2002</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>09686548598</span></li>
+                  </li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>GitHub:</strong> <a href="https://github.com/LUNAhzl">GitHub Profile</a>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Repository:</strong> <a href="https://github.com/LUNAhzl?tab=repositories">My Repositories</a>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>21</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>School:</strong> <span>PHINMA-University of Iloilo</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Course:</strong> <span>Bachelor of Science in Information Technology</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>PHINMA Email:</strong> <span>hala.luna.ui@phinmaed.com</span></li>
+                </ul>
+              </div>
+            </div>
+            <p>
+              I am a 3rd Year college student of PHINMA-University of Iloilo who takes up the course of Bachelor of Science in Information Technology and have a 
+              major which is Web Development. Currently studying to enhance my skills on web designs and web making. On contrary, I'm also practicing my 
+              leadership in school leading my classmates, taking the responsibilities of a president and secretary in class. Also not forgetting my hobbies 
+              as a dancer, singer, and lastly, what I'm currently invested to was writing.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Facts Section ======= -->
+    <section id="facts" class="facts">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Facts</h2>
+          <p>Facts is a truth known by actual experience or observation, it is something known to be true. It also a true datum about one or 
+            more aspects of a circumstance. 
+          </br>
+          This section were all about the facts for what I've done and achieve so far on my college years.</p>
+        </div>
+
+        <div class="row no-gutters">
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
+            <div class="count-box">
+              <i class="bi bi-emoji-smile"></i>
+              <span data-purecounter-start="0" data-purecounter-end="210" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Happy Viewers</strong> satisfied with the result.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
+            <div class="count-box">
+              <i class="bi bi-journal-richtext"></i>
+              <span data-purecounter-start="0" data-purecounter-end="75" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Projects</strong> were made so far.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
+            <div class="count-box">
+              <i class="bi bi-headset"></i>
+              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hours Of Support</strong> on making the projects.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
+            <div class="count-box">
+              <i class="bi bi-postcard-heart"></i>
+              <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Posted</strong> projects you could view.</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Facts Section -->
+
+    <!-- ======= Skills Section ======= -->
+    <section id="skills" class="skills section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Skills</h2>
+          <p>Skills is a type of work or activity which requires special training and knowledge. 
+            It is also the learned ability to act with determined results with good execution. 
+            Skill is the knowledge and ability that enables you to do something well. 
+            </br></br>
+            This section shows how my skills making websites and designing it. Today, I'm still an 
+            average and on learning stage on making, so the value may vary on how I view myself where I'm good at.
+          </p>
+        </div>
+
+        <div class="row skills-content">
+
+          <div class="col-lg-6" data-aos="fade-up">
+
+            <div class="progress">
+              <span class="skill">HTML <i class="val">100%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">CSS <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">JavaScript <i class="val">45%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="45" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">PHP <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="progress">
+              <span class="skill">Flask <i class="val">87%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Photoshop <i class="val">30%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="30" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Photography <i class="val">40%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Writing <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Skills Section -->
+
+    <!-- ======= Resume Section ======= -->
+    <section id="resume" class="resume">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Resume</h2>
+          <p>Resume is a formal document that a job applicant creates to itemize their qualifications for a position.
+            It is also a brief, concise document that presents you to the prospective employer as it markets your skills, 
+            accomplishments and experiences, admission to graduate school, and consideration for a scholarship or fellowship.
+            </br></br>
+            It was a continuation of about me but in this section, here you could see my every achievement 
+            and what I've done so far.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-6" data-aos="fade-up">
+            <h3 class="resume-title">Summary</h3>
+            <div class="resume-item pb-0">
+              <h4>Hazel Mae Luna</h4>
+              <p><em>A passionate and enthusiastic 3rd year student Information Technology Web Developer with passion for developing and enhancing
+                good and better websites my clients will request. I have experience various making of websites in the context of
+                a team, and I work independently on making my own websites with the help of my professors at PHINMA-University of Iloilo.
+              </em></p>
+              <ul>
+                <li><strong>Address: </strong><span>DHPRR 2 Phase 1 Blk. 15 Lot 36, Brgy. Jibao-an, Pavia, Iloilo, Philippines 5001 </span></li>
+                <li><strong>Contact No.: </strong><span>09686548598</span></li>
+                <li><strong>Personal Email: </strong><span>hazelmalunajkl@gmail.com</span></li>
+              </ul>
+            </div>
+
+            <h3 class="resume-title">Education</h3>
+            <div class="resume-item">
+              <h4>Bachelor of Science in Information Technology</h4>
+              <h5>2021 - Present</h5>
+              <p><em>PHINMA-University of Iloilo, Rizal Street, Iloilo City</em></p>
+              <li>Currently studying in one of the private colleges in Iloilo City.</li>
+              <li>Major in Web Development.</li>
+              <li><a href="">Dean's List TOP 11-25, Academic Year 2122 1st Semester.</a></li>
+              <li><a href="">Dean's Lister, Academic Year 2224 1st Semester.</a></li>
+              <li>Class President (2021-Present)</li>
+              <li>Class Secretary (2022-Present)</li>
+
+              </br>
+              <p><i class="bi bi-caret-right-fill"></i> CITEMAS ORGANIZATION
+                <li>CITEMAS Member (2021-Present)</li>
+                <li>CITEMAS Vice President (2021- Mid 2022)</li>
+                <li>CITEMAS Assistant Secretary (Late 2022-March 2024)</li>
+              </p>
+
+              </br>
+              <p><i class="bi bi-caret-right-fill"></i> TESDA Certificate of Completion
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+                <li><a href=""></a></li>
+              </p>
+
+            </div>
+            <div class="resume-item">
+              <h4>High School Diploma</h4>
+              <h5>2015 - 2021</h5>
+              <p><em>Iloilo National High School, Luna Street, La Paz, Iloilo City, Philippines 5000</em></p>
+              <li>Accountancy, Business and Management Graduate</li>
+              <li>English Club Member (2017-2019)</li>
+              <li>INHS Chorale Soprano Member (2017-2018)</li>
+              <li>INHS CAT Cadete (2018-2019)</li>
+              <li>Class Monitor (2019-2021)</li>
+
+            </div>
+          </div>
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title">School Experience</h3>
+            <div class="resume-item">
+              <h4>AVP Contestant (CITEWEEK 2022)</h4>
+              <h5>2022</h5>
+              <p><em>PHINMA-University of Iloilo, Rizal St., Iloilo City</em></p>
+              <ul>
+                <li>Joined with my group to compete in the contest where we show our skills and talent in doing 
+                  various platforms. Photography, video, dubbbing, and editing was used and made for this contest 
+                  for the 2022 CITE Week Event of our school.
+                </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>CITEMAS Drawing Making</h4>
+              <h5>2022</h5>
+              <p><em>PHINMA-University of Iloilo, Rizal St., Iloilo City</em></p>
+              <ul>
+                <li>Tried my not so professional drawing participating to my organization's show your work section for 
+                  showcasing membebers and officers artworks for events to promote the organization and talents and skills
+                  from the organization to make our viewers be interested of our organization.
+                </li>
+              </ul>
+            </div>
+            <div class="resume-item">
+              <h4>Techno Quiz Competition (CITEWEEK 2023)</h4>
+              <h5>2023</h5>
+              <p><em>PHINMA-University of Iloilo, Rizal St., Iloilo City</em></p>
+              <ul>
+                <li>Joined the competition with my team to compete in this category to represent our team to show our
+                  skills and knowledge about technology and other computer related quizzes. Our team finished 1st Runner-up 
+                  and this was one of my best experience to join, compete, and represent our year level.
+                </li>
+                <li><em><a href=""></a></em></li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Resume Section -->
+
+    <!-- ======= Portfolio Section ======= -->
+    <section id="portfolio" class="portfolio section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Portfolio</h2>
+          <p>Portfolio is a compilation of academic and professional materials that exemplifies your beliefs, skills, 
+            qualifications, education, training, and experiences. It provides insight into your personality and work 
+            ethic.
+            </br></br>
+            This section compiles all of my works that I have done so far.
+          </p>
+        </div>
+
+        <div class="row" data-aos="fade-up">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <ul id="portfolio-flters">
+              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-remote">GitHub</li>
+              <li data-filter=".filter-proj">Project</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/13.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/1.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="HAMAELUNE"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/14.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="CREATE PROFILE"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/15.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/3.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="D'ACES"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
+
+          
+
+
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-remote">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/github1.png" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><a href=""></a></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-remote">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/github2.png" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/gh1.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><a href="https://github.com/LUNAhzl/MidetermEXBase">Midterm_Exam Repository</a></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-remote">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/github3.png" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/gh2.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><a href="https://github.com/LUNAhzl/CapstoneOJT-Base">Capstone_OJT Repository</a></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+
+          
+
+
+        </div>
+
+        <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-proj">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/ojtimes.png" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/ojt14.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="OJTIME: OJT Records Management for College of Management"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 portfolio-item filter-proj">
+              <div class="portfolio-wrap">
+                <img src="assets/img/portfolio/ad.png" class="img-fluid" alt="">
+                <div class="portfolio-links">
+                  <a href="assets/img/portfolio/ad2.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Parking Lot System using Ultrasonic Sensor in PHINMA-UI"><i class="bx bx-plus"></i></a>
+                  <a href="portfolio-details.php" title="More Details"><i class="bx bx-link"></i></a>
+                </div>
+              </div>
+            </div>
+
+
+          
+
+
+        </div>
+
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+        <script>
+          $(document).ready(function(){
+            $('#portfolio-flters li').click(function(){
+              $('#portfolio-flters li').removeClass('filter-active');
+              $(this).addClass('filter-active');
+              
+              var selector = $(this).attr('data-filter');
+              $('.portfolio-container').isotope({
+                filter: selector
+              });
+              return false;
+            });
+          });
+        </script>
+
+
+        
+
+      </div>
+    </section><!-- End Portfolio Section -->
+
+    <!-- ======= Services Section ======= -->
+    <section id="services" class="services">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Services</h2>
+          <p>A web design service provides you with a customized website design that's perfect for your business or 
+            personal site. They'll work with you to create a design that matches your brand, while giving your customers 
+            a seamless user experience that will delight them.</p>
+        </div>
+
+        <div class="row">
+          <div class="col-lg-5 col-md-7 icon-box" data-aos="fade-up">
+            <div class="icon"><i class="bi bi-layout-text-window-reverse"></i></div>
+            <h4 class="title"><a href="">Web Design</a></h4>
+            <p class="description">Web designing is not an easy task, but web designing is one of the things I can do for my clients making it
+              wonderful and better looking.
+            </p>
+          </div>
+          <div class="col-lg-5 col-md-7 icon-box" data-aos="fade-up" data-aos-delay="100">
+            <div class="icon"><i class="bi bi-clipboard-data"></i></div>
+            <h4 class="title"><a href="">Making Databases</a></h4>
+            <p class="description">Databases is a form of inserting datas that catch of what it get from your site. Making databases is a long process 
+              but this is one of my skills where I can do it for my clients as well for me to test what I've learned so far. 
+            </p>
+          </div>
+          <div class="col-lg-5 col-md-7 icon-box" data-aos="fade-up" data-aos-delay="200">
+            <div class="icon"><i class="bi bi-people"></i></div>
+            <h4 class="title"><a href="">Making Profile</a></h4>
+            <p class="description">Profile is a long making of website wherein it had many components of contents to be put at for which your 
+              clients will have a better knowledge and information about you. 
+            </p>
+          </div>
+          <div class="col-lg-5 col-md-7 icon-box" data-aos="fade-up" data-aos-delay="300">
+            <div class="icon"><i class="bi bi-columns-gap"></i></div>
+            <h4 class="title"><a href="">Making Website</a></h4>
+            <p class="description">Website is one of the important things you should have. This to let your clients to have better knowledge regarding
+              of your business and to have better information that they could know and for them to anticipate more of your business.
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials section-bg">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Testimonials</h2>
+          <p>Testimony is a written declaration certifying to a person's character, conduct, or qualifications, or 
+            to the value, excellence, etc., of a thing. It is also a letter or written statement of recommendation,
+            something given or done as an expression of esteem, admiration, or gratitude.</p>
+        </div>
+
+        <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+          <div class="swiper-wrapper">
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Hazel is a fantastic friend known for her infectious laughter and unwavering loyalty, making 
+                  every moment spent with her a memorable and cherished experience. Her kindness and genuine nature 
+                  brighten the lives of everyone fortunate enough to know her.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/b2.jpg" class="testimonial-img" alt="">
+                <h3>Benz Pelaez</h3> 
+                <h4>3rd Year Programming Student</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Hazel is that one friend that's motivates me and cheering me up always. She's a special friend that 
+                  helps me in everything, a friend that one call away. She's like my favorite cup that always there 
+                  whenever I needed her.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/e3.jpg" class="testimonial-img" alt="">
+                <h3>Eunice Trixcie Paulino</h3>
+                <h4>3rd Year Web Development Student</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Hazel is one of the best friend I know she is always there for me everytime I need  help. She is 
+                  so humble and a happy person whenever you see her she is always smiling.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/m2.jpg" class="testimonial-img" alt="">
+                <h3>Ma. Quennie Lozada</h3>
+                <h4>3rd Year Web Development Student</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+            <div class="swiper-slide">
+              <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
+                <p>
+                  <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                  Hazel is a very hardworking individual and has the potential to be a great leader in the making. 
+                  She is knowledgeable in terms of programming concepts, and has the capacity to think outside the 
+                  box. Hazel is a team-player and easy to cooperate with.
+                  <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                </p>
+                <img src="assets/img/testimonials/d2.jpg" class="testimonial-img" alt="">
+                <h3>Daryll Gabutin</h3>
+                <h4>3rd Year Programming Student</h4>
+              </div>
+            </div><!-- End testimonial item -->
+
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="container">
+      <div class="copyright">
+        &copy; Developed by <strong><span>LUNE CREATIONS</span></strong>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ -->
+        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+      </div>
+    </div>
+  </footer><!-- End  Footer -->
+
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
